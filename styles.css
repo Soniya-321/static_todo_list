@@ -1,0 +1,44 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 560px;
+    width: 320px;
+    color: white;
+    font-family: "roboto";
+}
+
+.card {
+    text-align: center;
+}
+
+.main-heading {
+    font-size: 40px;
+}
+.paragraph {
+    font-size: 14px;
+}
+
+.heading {
+    font-size: 18px;
+}
+
+.para {
+    font-size: 14px;
+}
+
+.button {
+    text-align: center;
+    background-color: orange;
+    color: white;
+    height: 35px;
+    width: 65px;
+}
+
+.p {
+    text-align: center;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.todolist {
+    text-align: center;
+}
